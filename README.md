@@ -7,14 +7,19 @@
  <pre>
  pkg update && pkg upgrade
  </pre>
+ </pre>
  pkg install python
  </pre>
+ </pre>
  pip install yt-dlp
+ </pre>
  </pre>
  git clone
 https://github.com/jsjabbar0/Vedio-Downloader
  </pre>
+ </pre>
  cd Vedio-Downloader
+ </pre>
  </pre>
  python ytdownloader1.py
  </pre>
